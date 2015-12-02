@@ -1,5 +1,6 @@
-nimcache
 memcache
-netdef
 memcacheasync
 nakefile
+netdef
+nimcache
+tests/memcachetest
